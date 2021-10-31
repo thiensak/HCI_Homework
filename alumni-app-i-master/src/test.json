@@ -1,0 +1,26 @@
+[
+    {
+        "flag": 2,
+        "code": "I0000217",
+        "nameEn": "New Joiner Options ",
+        "nameTh": "",
+        "policyNo": "GMDB0000339",
+        "policy": [
+            {
+                "no": "GMDB0100339",
+                "name": "New Joiner",
+            },
+        ]
+    },
+    {
+        "flag": 2,
+        "nameEn": "Branch No.2 New Joiner Options ",
+        "policyNo": "GMDB0000339",
+        "policy": [
+            {
+                "no": "GMDB0100339",
+                "name": "Branch No.2 New Joiner Options ",
+            },
+        ]
+    }
+}
